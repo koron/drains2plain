@@ -1,0 +1,9 @@
+# Converter Heroku HTTP Drains to Plain Text
+
+Install
+
+    $ go install github.com/koron/drains2plain
+
+Usage
+
+    $ drains2plain < drains.log > plain.log
